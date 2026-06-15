@@ -17,6 +17,8 @@ namespace Chess
 
         private static readonly Color LightTile = Color.FromArgb(240, 217, 181);
         private static readonly Color DarkTile = Color.FromArgb(181, 136, 99);
+
+        
         public Board()
         {
             InitializeComponent();
